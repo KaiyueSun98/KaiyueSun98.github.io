@@ -22,7 +22,7 @@ Year 2
 
 Year 3
 - Key Modules: Machine Learning, Deep Learning, Advanced Signal Processing, Control Engineering, Digital Signal Processing, Digital System Design
-- Society: Formula Student | Imperial Racing Green
+- Society: Formula Student, Imperial Racing Green
 
 Year 4
 - Top 10% of the class, 2019 & 2020 Dean’s List for Academic Excellence
@@ -33,6 +33,12 @@ Year 4
 
 Experience
 ---------
+**Silicon Engineer, Vision Academy.** (2019.4-2019.10)
+
+-
+-
+-
+
 **Silicon Engineer, Radio Frequency Silicon Evaluation team at Mediatek UK Kent Design Centre.** (2019.4-2019.10)
 
 - The key responsibility during the six-month internship in RFSE team was to carry out numerous chip evaluation tasks within the limited time budget. 
@@ -47,7 +53,7 @@ Experience
 
 Skills
 ------
-**Programming:** Python, C++,C, MATLAB
+**Programming:** Python, C++,C, MATLAB/Octave
 
 Projects
 --------
