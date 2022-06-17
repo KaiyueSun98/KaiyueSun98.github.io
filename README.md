@@ -36,7 +36,7 @@ Experience
 **Assiciate Product Manager, Vision Academy, Shanghai China.** (2021.11-present)
 
 - Designed university bridging curriculum in the area of Electrical Engineering and Computer Science 
-- The main cources includes Project-Based Learning camp, Independent Project Qualification (IPQ), Introduction to Machine Learning/Big Data
+- The main cources includes
   - Project-Based Learning camp: A 2-week intensive learning programme
     1. Visual Recognition Robotic Arm: 
       - Design a ColorTracking robotic arm based on Raspberry Pi. 
@@ -48,8 +48,7 @@ Experience
   - Introduction to Machine Learning/Big Data: Reading courses. 
     1. [_Learning From Data_](https://work.caltech.edu/textbook.html)
     2. [_Big Data: A Very Short Introduction_](https://www.amazon.com/Big-Data-Short-Introduction-Introductions/dp/0198779577)
-
-**Assiciate Product Manager, Huawei, Shanghai China.** (2020.09-2021.10)
+**Technical Research Engineer, Shanghai Huawei Technology Co. Ltd, China.** (2020.09-2021.10)
 -
 -
 -
