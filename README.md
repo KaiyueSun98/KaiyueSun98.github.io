@@ -39,11 +39,11 @@ Experience
 - The main cources includes Project-Based Learning camp, Independent Project Qualification (IPQ), Introduction to Machine Learning/Big Data
   - Project-Based Learning camp: A 2-week intensive learning programme
     1. Visual Recognition Robotic Arm: 
-    
-    Design a ColorTracking robotic arm based on Raspberry Pi. 
-    
-    Taught skills: Python programming, video/image processing (OpenCV), robotic arm control (Inverse Kinematics, PID control). 
-    3. Line Tracking Rover: Design a LineTracking rover based on Arduino Uno. Taught skills: Arduino programming, digital circuit analysis, Motor driver, sensors.
+      - Design a ColorTracking robotic arm based on Raspberry Pi. 
+      - Taught skills: Python programming, video/image processing (OpenCV), robotic arm control (Inverse Kinematics, PID control). 
+    2. Line Tracking Rover: 
+      - Design a LineTracking rover based on Arduino Uno. 
+      - Taught skills: Arduino programming, digital circuit analysis, Motor driver, sensors.
   - OxfordAQA's International IPQ: helping students to develop researching skills
   - Introduction to Machine Learning/Big Data: Reading courses. 
     1. [_Learning From Data_](https://work.caltech.edu/textbook.html)
