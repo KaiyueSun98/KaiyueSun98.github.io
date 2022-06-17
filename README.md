@@ -33,27 +33,30 @@ Year 4
 
 Experience
 ---------
-**Assiciate Product Manager, Vision Academy, Shanghai China.** (2021.11-present)
+#### **Assiciate Product Manager, Vision Academy, Shanghai China.** (2021.11-present)
 
 - Designed university bridging curriculum in the area of Electrical Engineering and Computer Science 
-- The main cources includes
-  1. Project-Based Learning camp: A 2-week intensive learning programme
-    1. Visual Recognition Robotic Arm: 
-      - Design a ColorTracking robotic arm based on Raspberry Pi. 
-      - Taught skills: Python programming, video/image processing (OpenCV), robotic arm control (Inverse Kinematics, PID control). 
-    2. Line Tracking Rover: 
-      - Design a LineTracking rover based on Arduino Uno. 
-      - Taught skills: Arduino programming, digital circuit analysis, Motor driver, sensors.
-  2. OxfordAQA's International IPQ: helping students to develop researching skills
-  3. Introduction to Machine Learning/Big Data: Reading courses. 
-    1. [_Learning From Data_](https://work.caltech.edu/textbook.html)
-    2. [_Big Data: A Very Short Introduction_](https://www.amazon.com/Big-Data-Short-Introduction-Introductions/dp/0198779577)
+- The main cources include
+  1. Project-Based Learning camp: 2-week intensive learning programme
+     - Visual Recognition Robotic Arm: 
+        - Design a ColorTracking robotic arm based on Raspberry Pi. 
+        - Taught skills: Python programming, video/image processing (OpenCV), robotic arm control (Inverse Kinematics, PID control). 
+        - [Course materials here]()
+     - Line Tracking Rover: 
+        - Design a LineTracking rover based on Arduino Uno. 
+        - Taught skills: Arduino programming, digital circuit analysis, Motor driver, sensors.
+  2. OxfordAQA's International IPQ: researching skills development
+     - [Course materials here]() 
+  4. Introduction to Machine Learning/Big Data: Reading courses. 
+     - [_Learning From Data_](https://work.caltech.edu/textbook.html)
+        - [Course materials here]() 
+     - [_Big Data: A Very Short Introduction_](https://www.amazon.com/Big-Data-Short-Introduction-Introductions/dp/0198779577)
 
-
-**Technical Research Engineer, Shanghai Huawei Technology Co. Ltd, China.** (2020.09-2021.10)
--
--
--
+#### **Technical Research Engineer, Shanghai Huawei Technology Co. Ltd, China.** (2020.09-2021.10)
+- Research and Development of 5G Wireless Communication Physical Layer Algorithms: 
+  - implemented Approximation Algorithm in downlink physical channel in C, mainly simplifying floating-point arithmatic 
+  - carried out channel simulation, data analysis and visualisation using MATLAB
+  - verified alrorithm results using Octave 
 
 **Silicon Engineer, Radio Frequency Silicon Evaluation team at Mediatek UK Kent Design Centre.** (2019.4-2019.10)
 
