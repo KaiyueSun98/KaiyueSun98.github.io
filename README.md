@@ -99,7 +99,7 @@ and examples are provided to illustrate the method. Although it cannot solve the
     - Familiarised me with FPGAs, CUP architecture, Hardware/Software partitioning; 
     - Consolidated my hardware designing & Verilog skills; 
   - For more information, please click the button below to see my project report.
-  - [DSD Report 1](), [DSD Report 2](), [DSD Report 3]()
+  - [DSD Report 1](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DSD%20Report%201.pdf), [DSD Report 2](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DSD%20Report%202.pdf), [DSD Report 3](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DSD%20Report%203.pdf)
    
 - Advanced Signal Processing Coursework: 
   - Couse Contents:
@@ -114,9 +114,9 @@ and examples are provided to illustrate the method. Although it cannot solve the
     - Strengthened and improved my MATLAB skills rapidly, because the problems in this coursework were all solved using MATLAB.
     - Strengthened and improved my Latex skills rapidly, because the coursework report was well-presented using Latex.
     - For more information, please click the buttons below to see the coursework description, MATLAB code and final report.
-  - [Cousework Description]()
-  - [ASP Coursework Report]()
-  - [ASP MATLAB Code]()
+  - [Cousework Description](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/ASP%20Cousework%20Description.pdf)
+  - [ASP Coursework Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/ASP%20Coursework%20Report.pdf)
+  - [ASP MATLAB Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/ASP_code)
 - Deep Learning Coursework: 
   - detail work intro
 - Formula Student Society Project:
