@@ -98,7 +98,7 @@ and examples are provided to illustrate the method. Although it cannot solve the
 - Formula Student Society Project:
   - I joined FS Electrical & Electronic Team at the beginning of the Year 3.
   - I was responsible for designing the PCB of the Tractive System Active Light which was defined in [Formula Student Rules 2018](https://www.imeche.org/docs/default-source/1-oscar/formula-student/fs-rules_2018_v1-1.pdf?sfvrsn=2). 
-The document [TSAL Design]() extracted relevant design criteria from the rules and proposed the basic designing method by me. The document [TSAL Report]() was part of the final report and written by me as a summary of the TSAL design.
+The document [TSAL Design](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/TSAL%20Design.docx) extracted relevant design criteria from the rules and proposed the basic designing method by me. The document [TSAL Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/TSAL%20Report.docx) was part of the final report and written by me as a summary of the TSAL design.
 For the complete PCB design, please click [circuit maker project](https://workspace.circuitmaker.com/Projects/Details/Kaiyue-Sun/Logic-Board-SMD-Copy-2).
 
 #### **2018**
@@ -110,19 +110,20 @@ For the complete PCB design, please click [circuit maker project](https://worksp
 - Software Engineering Coursework: Binary Tree
   - Design a program which could evaluate Boolean functions using binary tree structure in C++.              
   - Related topics: Static and dynamic memories 
-  - [Code]()
+  - [Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/binary%20tree%20report.pdf)
+  - [Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/binary%20tree.cpp)
 
 #### **2017**
 - Arduino Rover Project:
   - Designed a remotely controlled rover that was able to detect and identify radio, acoustic, infrared and magnetic signals. 
   - Built circuits with sensors, antennas, amplifiers and filters composed of passive components to catch and demodulate the signals.
   - Arduino was used to identify the processed signals and control the movement of the rover over WIFI connection to the computer. 
-  - [EERover Report]() 
+  - [EERover Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/EERover%20report.docx) 
    
 - Software Engineering Coursework: 2048 
   - Design a program performing the main functions of the famous game ‘2048’ in C++.
   - Related topics: Conditionals and loops, Functions, Data structures, Input from text files. 
-  - [Code]()
+  - [Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/2048.cpp)
 
 
 **[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
