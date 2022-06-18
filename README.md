@@ -88,7 +88,11 @@ and examples are provided to illustrate the method. Although it cannot solve the
 
 #### **2019**
 - Industrial Placement: Silicon Engineer at Mediatek UK Kent Design Centre
-  - detail work intro
+  - responsible for carrying out the numerous Evaluation tasks of the chips after they were taped out (design finished with successful verification).
+  - processed the raw data measured from the instruments using Python. 
+  - drived the instruments like Spectral Analyzer and Switches to take real measurements on the IC part using the tool: `Labview`. 
+  - Automated the routine tasks using Excel macros, for example, calculate statistics for Mass Production, highlight failed parts on Excel sheet in one step.
+
 - Digital System Design Coursework: 
   - Coursework Objectives: Accelerate intensive arithmetic applications in the meanwhile use the hardware resources effectively
   - What I did:
@@ -118,7 +122,10 @@ and examples are provided to illustrate the method. Although it cannot solve the
   - [ASP Coursework Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/ASP%20Coursework%20Report.pdf)
   - [ASP MATLAB Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/ASP_code)
 - Deep Learning Coursework: 
-  - detail work intro
+  - The objective is to propose an image descriptor for measuring similarity between images. The descriptor is trained and tested on N-HPatches, a noisy version of HPatches dataset. The method of 2 Convolutional Neural Networks (CNN) pipeline is used in the baseline appraoch. The first network aims to denoise the input patches. The second one is used to train the descriptor, which is then evaluated on three tasks: patch verification, image matching and patch retrieval. 
+  - Firstly, the baseline approach is demonstrated and implemented. Based on that, an improved approach is proposed and evaluated. 
+  - Then an insightful aanalysis of the improvement upon the baseline approach is discussed in the final part.
+  - [DL Report]()
 - Formula Student Society Project:
   - I joined FS Electrical & Electronic Team at the beginning of the Year 3.
   - I was responsible for designing the PCB of the Tractive System Active Light which was defined in [Formula Student Rules 2018](https://www.imeche.org/docs/default-source/1-oscar/formula-student/fs-rules_2018_v1-1.pdf?sfvrsn=2). 
