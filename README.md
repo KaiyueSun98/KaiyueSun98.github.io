@@ -90,9 +90,33 @@ and examples are provided to illustrate the method. Although it cannot solve the
 - Industrial Placement: Silicon Engineer at Mediatek UK Kent Design Centre
   - detail work intro
 - Digital System Design Coursework: 
-  - detail work intro
+  - Coursework Objectives: Accelerate intensive arithmetic applications in the meanwhile use the hardware resources effectively
+  - What I did:
+    - Designed a NIOS II processor on an FPGA using on-chip RAM using Quartus II software; 
+    - Applied CORDIC algorithm using Verilog to improve accuracy; 
+    - Designed specific floating-point arithmetic tools for the function to be evaluated, so ready-made but inefficient Altera floating-point tools were replaced.
+  - Learning outcomes: 
+    - Familiarised me with FPGAs, CUP architecture, Hardware/Software partitioning; 
+    - Consolidated my hardware designing & Verilog skills; 
+  - For more information, please click the button below to see my project report.
+  - [DSD Report 1](), [DSD Report 2](), [DSD Report 3]()
+   
 - Advanced Signal Processing Coursework: 
-  - detail work intro
+  - Couse Contents:
+    - stochastic models
+    - classical and modern estimation theory
+    - parametric and nonparametric modelling
+    - the class of least squares methods
+    - adaptive estimation suitable for nonstationary data
+  - What I learnt:  
+    - Model real-world signal using parameters by applying Autoregressive modelling, or Lease Square Estimation 
+    - Learning from data using the estimation of system identification
+    - Strengthened and improved my MATLAB skills rapidly, because the problems in this coursework were all solved using MATLAB.
+    - Strengthened and improved my Latex skills rapidly, because the coursework report was well-presented using Latex.
+    - For more information, please click the buttons below to see the coursework description, MATLAB code and final report.
+  - [Cousework Description]()
+  - [ASP Coursework Report]()
+  - [ASP MATLAB Code]()
 - Deep Learning Coursework: 
   - detail work intro
 - Formula Student Society Project:
