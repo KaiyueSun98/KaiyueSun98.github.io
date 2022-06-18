@@ -84,6 +84,7 @@ Coursework and Projects (Term Time)
   -  My final year project is about Control Engineering. The concept of stochastic relative degree is derived from relative degree for deterministic systems. Stochastic systems are defined by stochastic differential equations in which the drift and diffusion terms are linear function of the states and control inputs. Then, the output regulation problem for linear systems is reviewed. 
 It is noticed that the solution for single-input single-output linear stochastic systems has many restrictions and can not generalise to all the classes of systems. Therefore, another method using the knowledge of stochastic relative degree is proposed. Mathematical analysis
 and examples are provided to illustrate the method. Although it cannot solve the problem completely, it provides clue for the research in this area in the future. 
+  - [FYP Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/FYP_report.pdf)
 
 
 #### **2019**
@@ -121,11 +122,13 @@ and examples are provided to illustrate the method. Although it cannot solve the
   - [Cousework Description](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/ASP%20Cousework%20Description.pdf)
   - [ASP Coursework Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/ASP%20Coursework%20Report.pdf)
   - [ASP MATLAB Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/ASP_code)
+  
 - Deep Learning Coursework: 
   - The objective is to propose an image descriptor for measuring similarity between images. The descriptor is trained and tested on N-HPatches, a noisy version of HPatches dataset. The method of 2 Convolutional Neural Networks (CNN) pipeline is used in the baseline appraoch. The first network aims to denoise the input patches. The second one is used to train the descriptor, which is then evaluated on three tasks: patch verification, image matching and patch retrieval. 
   - Firstly, the baseline approach is demonstrated and implemented. Based on that, an improved approach is proposed and evaluated. 
   - Then an insightful aanalysis of the improvement upon the baseline approach is discussed in the final part.
-  - [DL Report]()
+  - [DL Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DL%20Report.pdf)
+
 - Formula Student Society Project:
   - I joined FS Electrical & Electronic Team at the beginning of the Year 3.
   - I was responsible for designing the PCB of the Tractive System Active Light which was defined in [Formula Student Rules 2018](https://www.imeche.org/docs/default-source/1-oscar/formula-student/fs-rules_2018_v1-1.pdf?sfvrsn=2). 
