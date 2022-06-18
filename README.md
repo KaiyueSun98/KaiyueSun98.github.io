@@ -16,7 +16,7 @@ Year 1
 
 Year 2
 - Top 10% of the class, 2017 & 2018 Dean’s List for Academic Excellence
-- Undergraduate Research Opportunities Program @ ICL: Measurement of FinFET Characteristics
+- Undergraduate Research Opportunities Program (UROP) @ ICL: Measurement of FinFET Characteristics
 - Faculty of Engineering UROP Bursary 
 - Key Modules: Control and Power Engineering, Communication Systems, Signals and Linear Systems, Algorithms and Data Structures, Computer Architecture
 
@@ -56,7 +56,7 @@ Experience
 - Research and Development of 5G Wireless Communication Physical Layer Algorithms: 
   - implemented Approximation Algorithm in downlink physical channel in C, mainly simplifying floating-point arithmatic 
   - carried out channel simulation, data analysis and visualisation using MATLAB
-  - verified alrorithm results using Octave 
+  - verified algorithm results using Octave 
 
 **Silicon Engineer, Radio Frequency Silicon Evaluation team at Mediatek UK Kent Design Centre.** (2019.4-2019.10)
 
@@ -72,10 +72,42 @@ Experience
 
 Skills
 ------
-**Programming:** Python, C++,C, MATLAB/Octave
+**Programming:** Python, C++, C, MATLAB/Octave
 
-Projects
+Coursework and Projects (Term Time)
 --------
+**2020** 
+
+- Pattern Recognition Coursework: Face Recognition
+  - intro 
+- Final Year Project: Stochastic Relative Degree and Output Regulation of MIMO systems
+  - intro 
+
+#### **2019**
+- Industrial Placement: Silicon Engineer at Mediatek UK Kent Design Centre
+  - detail work intro
+- Digital System Design Coursework: 
+  - detail work intro
+- Advanced Signal Processing Coursework: 
+  - detail work intro
+- Deep Learning Coursework: 
+  - detail work intro
+- Formula Student Society Project:
+  - detail
+
+#### **2018**
+- UROP Project: Measurement of FinFET Characteristics
+  - detail
+- Software Engineering Coursework: Binary Tree
+  - detail  
+
+#### **2017**
+- Arduino Rover Project:
+  - detail   
+- Software Engineering Coursework: 2048 
+  - detail 
+
+
 **[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
 
 - Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
