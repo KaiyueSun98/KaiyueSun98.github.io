@@ -36,7 +36,7 @@ Experience
 #### **Assiciate Product Manager, Vision Academy, Shanghai China.** (2021.11-present)
 
 - Designed university bridging curriculum in the area of Electrical Engineering and Computer Science 
-- The main cources include
+- Main courses:
   1. Project-Based Learning camp: 2-week intensive learning programme
      - Visual Recognition Robotic Arm: 
         - Design a ColorTracking robotic arm based on Raspberry Pi. 
@@ -81,7 +81,10 @@ Coursework and Projects (Term Time)
 - Pattern Recognition Coursework: Face Recognition
   - intro 
 - Final Year Project: Stochastic Relative Degree and Output Regulation of MIMO systems
-  - intro 
+  -  My final year project is about Control Engineering. The concept of stochastic relative degree is derived from relative degree for deterministic systems. Stochastic systems are defined by stochastic differential equations in which the drift and diffusion terms are linear function of the states and control inputs. Then, the output regulation problem for linear systems is reviewed. 
+It is noticed that the solution for single-input single-output linear stochastic systems has many restrictions and can not generalise to all the classes of systems. Therefore, another method using the knowledge of stochastic relative degree is proposed. Mathematical analysis
+and examples are provided to illustrate the method. Although it cannot solve the problem completely, it provides clue for the research in this area in the future. 
+
 
 #### **2019**
 - Industrial Placement: Silicon Engineer at Mediatek UK Kent Design Centre
@@ -93,19 +96,33 @@ Coursework and Projects (Term Time)
 - Deep Learning Coursework: 
   - detail work intro
 - Formula Student Society Project:
-  - detail
+  - I joined FS Electrical & Electronic Team at the beginning of the Year 3.
+  - I was responsible for designing the PCB of the Tractive System Active Light which was defined in [Formula Student Rules 2018](https://www.imeche.org/docs/default-source/1-oscar/formula-student/fs-rules_2018_v1-1.pdf?sfvrsn=2). 
+The document [TSAL Design]() extracted relevant design criteria from the rules and proposed the basic designing method by me. The document [TSAL Report]() was part of the final report and written by me as a summary of the TSAL design.
+For the complete PCB design, please click [circuit maker project](https://workspace.circuitmaker.com/Projects/Details/Kaiyue-Sun/Logic-Board-SMD-Copy-2).
 
 #### **2018**
-- UROP Project: Measurement of FinFET Characteristics
-  - detail
+- UROP Project: Measurement of FinFET Characteristics (8 weeks in summer 2018)
+  - trained to use the software Sentaurus TCAD to simulate the characteristics of semiconductor devices.
+  - took real measurements on FinFET wafers using the prob-station and analyse the data using Keysight Semiconductor Device Parameter Analyzer.
+  - Both sets of data collected from the simulation and real measurements were processed and compared using MATLAB.
+
 - Software Engineering Coursework: Binary Tree
-  - detail  
+  - Design a program which could evaluate Boolean functions using binary tree structure in C++.              
+  - Related topics: Static and dynamic memories 
+  - [Code]()
 
 #### **2017**
 - Arduino Rover Project:
-  - detail   
+  - Designed a remotely controlled rover that was able to detect and identify radio, acoustic, infrared and magnetic signals. 
+  - Built circuits with sensors, antennas, amplifiers and filters composed of passive components to catch and demodulate the signals.
+  - Arduino was used to identify the processed signals and control the movement of the rover over WIFI connection to the computer. 
+  - [EERover Report]() 
+   
 - Software Engineering Coursework: 2048 
-  - detail 
+  - Design a program performing the main functions of the famous game ‘2048’ in C++.
+  - Related topics: Conditionals and loops, Functions, Data structures, Input from text files. 
+  - [Code]()
 
 
 **[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
