@@ -36,20 +36,19 @@ Experience
 #### **Assiciate Product Manager, Vision Academy, Shanghai China.** (2021.11-present)
 
 - Designed university bridging curriculum in the area of Electrical Engineering and Computer Science 
-- Main courses:
+- Main courses proposed:
   1. Project-Based Learning camp: 2-week intensive learning programme
      - Visual Recognition Robotic Arm: 
         - Design a ColorTracking robotic arm based on Raspberry Pi. 
         - Taught skills: Python programming, video/image processing (OpenCV), robotic arm control (Inverse Kinematics, PID control). 
-        - [Course materials here]()
+        - [Materials here]()
      - Line Tracking Rover: 
         - Design a LineTracking rover based on Arduino Uno. 
         - Taught skills: Arduino programming, digital circuit analysis, Motor driver, sensors.
   2. OxfordAQA's International IPQ: researching skills development
-     - [Course materials here]() 
-  4. Introduction to Machine Learning/Big Data: Reading courses. 
+  3. Introduction to Machine Learning/Big Data: Reading courses. 
      - [_Learning From Data_](https://work.caltech.edu/textbook.html)
-        - [Course materials here](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/Learning%20From%20Data) 
+        - [Materials here](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/Learning%20From%20Data) 
      - [_Big Data: A Very Short Introduction_](https://www.amazon.com/Big-Data-Short-Introduction-Introductions/dp/0198779577)
 
 #### **Technical Research Engineer, Shanghai Huawei Technology Co. Ltd, China.** (2020.09-2021.10)
@@ -73,6 +72,8 @@ Experience
 Skills
 ------
 **Programming:** Python, C++, C, MATLAB/Octave
+**Deep Learning Algorithms**: CNN, RNN, LTSM
+**Python Programming and libraries for Data Science:** numpy, pandas, tensorflow/keras, matpplotlib, opencv, etc.
 
 Coursework and Projects (Term Time)
 --------
@@ -124,10 +125,13 @@ and examples are provided to illustrate the method. Although it cannot solve the
   - [ASP MATLAB Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/ASP_code)
   
 - Deep Learning Coursework: 
-  - The objective is to propose an image descriptor for measuring similarity between images. The descriptor is trained and tested on N-HPatches, a noisy version of HPatches dataset. The method of 2 Convolutional Neural Networks (CNN) pipeline is used in the baseline appraoch. The first network aims to denoise the input patches. The second one is used to train the descriptor, which is then evaluated on three tasks: patch verification, image matching and patch retrieval. 
-  - Firstly, the baseline approach is demonstrated and implemented. Based on that, an improved approach is proposed and evaluated. 
-  - Then an insightful aanalysis of the improvement upon the baseline approach is discussed in the final part.
-  - [DL Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DL%20Report.pdf)
+  - proposed and trained CNN architectures to solve image classification problems
+  - learned and trained RNN architectures
+  - implemented the architectures in keras
+  - Course project: proposed an image descriptor for measuring similarity between images. The descriptor was trained and tested on N-HPatches, a noisy version of HPatches dataset. The method of 2 Convolutional Neural Networks pipeline was used in the baseline appraoch. The first network aimed to denoise the input patches. The second one was used to train the descriptor, which was then evaluated on three tasks: patch verification, image matching and patch retrieval. 
+    - Firstly, the baseline approach is demonstrated and implemented. Based on that, an improved approach is proposed and evaluated. 
+    - Then an insightful aanalysis of the improvement upon the baseline approach is discussed in the final part.
+    - [DL Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DL%20Report.pdf)
 
 - Formula Student Society Project:
   - I joined FS Electrical & Electronic Team at the beginning of the Year 3.
