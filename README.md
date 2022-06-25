@@ -69,18 +69,19 @@ Experience
 - Developed communication skills and ability to explaining things by delivering 1-to-1 tutorials, conducting study groups and providing feedback to students. 
 - Taught Modules: Mathematics, Analogue Electronics, Semiconductor Devices, Signals and Communications.
 
-Skills
-------
-**Programming:** Python, C++, C, MATLAB/Octave
-**Deep Learning Algorithms**: CNN, RNN, LTSM
-**Python Programming and libraries for Data Science:** numpy, pandas, tensorflow/keras, matpplotlib, opencv, etc.
 
 Coursework and Projects (Term Time)
 --------
 **2020** 
 
 - Pattern Recognition Coursework: Face Recognition
-  - intro 
+  - I was given a set of real face images of different people to train the model using machine learning techniques and aimed to identify the testing faces. The specific algorithms include Principal Component Analysis (standard, low-dimension and incremental), Fisher Linear Discriminant and Committee machine. The model was implemented in Python. 
+  - One of the difficulties was that the face images of the same identity are very different because they were taken under different conditions like brightness, age, hairstyle and so on. Some face images of different identities were hard to distinguish because of similar brightness, background, face shape. In the end, the accuracy reached about 92% when applying committee machine on PCA-FLD ensemble parameters with the majority-voting rule
+  - [Coursework 1 Report]()
+  - [Coursework 2 Report]() 
+
+
+
 - Final Year Project: Stochastic Relative Degree and Output Regulation of MIMO systems
   -  My final year project is about Control Engineering. The concept of stochastic relative degree is derived from relative degree for deterministic systems. Stochastic systems are defined by stochastic differential equations in which the drift and diffusion terms are linear function of the states and control inputs. Then, the output regulation problem for linear systems is reviewed. 
 It is noticed that the solution for single-input single-output linear stochastic systems has many restrictions and can not generalise to all the classes of systems. Therefore, another method using the knowledge of stochastic relative degree is proposed. Mathematical analysis
@@ -162,6 +163,14 @@ For the complete PCB design, please click [circuit maker project](https://worksp
   - Design a program performing the main functions of the famous game ‘2048’ in C++.
   - Related topics: Conditionals and loops, Functions, Data structures, Input from text files. 
   - [Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/2048.cpp)
+
+
+
+Skills
+------
+#### **Programming:** Python, C++, C, MATLAB/Octave
+#### **Deep Learning Algorithms**: CNN, RNN, LTSM
+#### **Python Programming and libraries for Data Science:** numpy, pandas, tensorflow/keras, matpplotlib, opencv, etc.
 
 
 **[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
