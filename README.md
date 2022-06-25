@@ -41,32 +41,32 @@ Experience
      - Visual Recognition Robotic Arm: 
         - Design a ColorTracking robotic arm based on Raspberry Pi. 
         - Taught skills: Python programming, video/image processing (OpenCV), robotic arm control (Inverse Kinematics, PID control). 
-        - [Materials here]()
+        - [Course materials here](https://github.com/KaiyueSun98/Visual-Recognition-Robotic-Arm)
      - Line Tracking Rover: 
         - Design a LineTracking rover based on Arduino Uno. 
         - Taught skills: Arduino programming, digital circuit analysis, Motor driver, sensors.
   2. OxfordAQA's International IPQ: researching skills development
-  3. Introduction to Machine Learning/Big Data: Reading courses. 
+  3. Reading courses: 
      - [_Learning From Data_](https://work.caltech.edu/textbook.html)
-        - [Materials here](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/Learning%20From%20Data)
+        - [Notes here](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/Learning%20From%20Data)
      - [_Big Data: A Very Short Introduction_](https://www.amazon.com/Big-Data-Short-Introduction-Introductions/dp/0198779577)
 
 #### **Technical Research Engineer, Shanghai Huawei Technology Co. Ltd, China.** (2020.09-2021.10)
 - Research and Development of 5G Wireless Communication Physical Layer Algorithms: 
-  - implemented Approximation Algorithm in downlink physical channel in C, mainly simplifying floating-point arithmatic 
+  - implemented Approximation Algorithm in downlink physical channel in C, mainly simplifying floating-point arithmetic 
   - carried out channel simulation, data analysis and visualisation using MATLAB
   - verified algorithm results using Octave 
 
-**Silicon Engineer, Radio Frequency Silicon Evaluation team at Mediatek UK Kent Design Centre.** (2019.4-2019.10)
+#### **Silicon Engineer, Radio Frequency Silicon Evaluation team at Mediatek UK Kent Design Centre.** (2019.4-2019.10)
 
 - The key responsibility during the six-month internship in RFSE team was to carry out numerous chip evaluation tasks within the limited time budget. 
-- Was trained to use professional test equipment and software of LabVIEW to automate the test process. 
+- I was trained to use professional test equipment and software of LabVIEW to automate the test process. 
 - The tasks involved great amount of data processing using Excel macros, Python, and MATLAB to improve efficiency, which greatly developed my problem-solving ability and made me adapted to working under pressure.
 
-**Undergraduate Teaching Assistant, Imperial College London** (Term Time)
+#### **Undergraduate Teaching Assistant, Imperial College London** (Term Time)
 
-- Proactively participate in the Undergraduate Tutor Scheme every academic year to do some teaching jobs within the department. 
-- Developed communication skills and ability to explaining things by delivering 1-to-1 tutorials, conducting study groups and providing feedback to students. 
+- Proactively participated in the Undergraduate Tutor Scheme every academic year to do some teaching jobs within the department. 
+- Communication skills improved by delivering 1-to-1 tutorials, conducting study groups and providing coursework feedback to students. 
 - Taught Modules: Mathematics, Analogue Electronics, Semiconductor Devices, Signals and Communications.
 
 
@@ -75,10 +75,10 @@ Coursework and Projects (Term Time)
 **2020** 
 
 - Pattern Recognition Coursework: Face Recognition
-  - I was given a set of real face images of different people to train the model using machine learning techniques and aimed to identify the testing faces. The specific algorithms include Principal Component Analysis (standard, low-dimension and incremental), Fisher Linear Discriminant and Committee machine. The model was implemented in Python. 
-  - One of the difficulties was that the face images of the same identity are very different because they were taken under different conditions like brightness, age, hairstyle and so on. Some face images of different identities were hard to distinguish because of similar brightness, background, face shape. In the end, the accuracy reached about 92% when applying committee machine on PCA-FLD ensemble parameters with the majority-voting rule
-  - [Coursework 1 Report]()
-  - [Coursework 2 Report]() 
+  - I was given a set of real face images of different people to train the model using machine learning techniques and aimed to identify the testing faces. The algorithms include Principal Component Analysis (standard, low-dimension and incremental), Fisher Linear Discriminant and Committee machine. The model was implemented in Python. 
+  - One of the difficulties was that the face images of the same identity were very different because they were taken under different conditions like brightness, age, hairstyle. Some face images of different identities were hard to distinguish because of similar brightness, background, face shape. In the end, the accuracy reached about 92% when applying committee machine on PCA-FLD ensemble parameters with the majority-voting rule
+  - [Coursework 1 Report](https://github.com/KaiyueSun98/Pattern-Recognition/blob/main/Coursework%201/Pattern_Recognition_Coursework_1.pdf)
+  - [Coursework 2 Report](https://github.com/KaiyueSun98/Pattern-Recognition/blob/main/Coursework%202/Pattern_Recognition_Coursework_2.pdf) 
 
 
 
@@ -103,7 +103,7 @@ and examples are provided to illustrate the method. Although it cannot solve the
     - Applied CORDIC algorithm using Verilog to improve accuracy; 
     - Designed specific floating-point arithmetic tools for the function to be evaluated, so ready-made but inefficient Altera floating-point tools were replaced.
   - Learning outcomes: 
-    - Familiarised me with FPGAs, CUP architecture, Hardware/Software partitioning; 
+    - Familiarised me with FPGAs, CUP architecture, Hardware & Software partitioning; 
     - Consolidated my hardware designing & Verilog skills; 
   - For more information, please click the button below to see my project report.
   - [DSD Report 1](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DSD%20Report%201.pdf), [DSD Report 2](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DSD%20Report%202.pdf), [DSD Report 3](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DSD%20Report%203.pdf)
@@ -118,12 +118,10 @@ and examples are provided to illustrate the method. Although it cannot solve the
   - What I learnt:  
     - Model real-world signal using parameters by applying Autoregressive modelling, or Lease Square Estimation 
     - Learning from data using the estimation of system identification
-    - Strengthened and improved my MATLAB skills rapidly, because the problems in this coursework were all solved using MATLAB.
+    - Strengthened and improved my MATLAB skills rapidly, because the problems in this coursework were all solved in MATLAB.
     - Strengthened and improved my Latex skills rapidly, because the coursework report was well-presented using Latex.
-    - For more information, please click the buttons below to see the coursework description, MATLAB code and final report.
-  - [Cousework Description](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/ASP%20Cousework%20Description.pdf)
-  - [ASP Coursework Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/ASP%20Coursework%20Report.pdf)
-  - [ASP MATLAB Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/tree/main/ASP_code)
+    - For more information, please click [here](https://github.com/KaiyueSun98/Advanced-Signal-Processing) to see the coursework description, MATLAB code and final report.
+
   
 - Deep Learning Coursework: 
   - proposed and trained CNN architectures to solve image classification problems
@@ -131,7 +129,7 @@ and examples are provided to illustrate the method. Although it cannot solve the
   - implemented the architectures in keras
   - Course project: proposed an image descriptor for measuring similarity between images. The descriptor was trained and tested on N-HPatches, a noisy version of HPatches dataset. The method of 2 Convolutional Neural Networks pipeline was used in the baseline appraoch. The first network aimed to denoise the input patches. The second one was used to train the descriptor, which was then evaluated on three tasks: patch verification, image matching and patch retrieval. 
     - Firstly, the baseline approach is demonstrated and implemented. Based on that, an improved approach is proposed and evaluated. 
-    - Then an insightful aanalysis of the improvement upon the baseline approach is discussed in the final part.
+    - Then an insightful analysis of the improvement upon the baseline approach is discussed in the final part.
     - [DL Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/DL%20Report.pdf)
 
 - Formula Student Society Project:
@@ -141,7 +139,7 @@ The document [TSAL Design](https://github.com/KaiyueSun98/KaiyueSun98.github.io/
 For the complete PCB design, please click [circuit maker project](https://workspace.circuitmaker.com/Projects/Details/Kaiyue-Sun/Logic-Board-SMD-Copy-2).
 
 #### **2018**
-- UROP Project: Measurement of FinFET Characteristics (8 weeks in summer 2018)
+- UROP Project: Measurement of FinFET Characteristics (2018.8-2018.10: 8 weeks)
   - trained to use the software Sentaurus TCAD to simulate the characteristics of semiconductor devices.
   - took real measurements on FinFET wafers using the prob-station and analyse the data using Keysight Semiconductor Device Parameter Analyzer.
   - Both sets of data collected from the simulation and real measurements were processed and compared using MATLAB.
@@ -160,7 +158,7 @@ For the complete PCB design, please click [circuit maker project](https://worksp
   - [EERover Report](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/EERover%20report.docx) 
    
 - Software Engineering Coursework: 2048 
-  - Design a program performing the main functions of the famous game ‘2048’ in C++.
+  - Design a program performing the basic functions of the famous game ‘2048’ in C++.
   - Related topics: Conditionals and loops, Functions, Data structures, Input from text files. 
   - [Code](https://github.com/KaiyueSun98/KaiyueSun98.github.io/blob/main/2048.cpp)
 
