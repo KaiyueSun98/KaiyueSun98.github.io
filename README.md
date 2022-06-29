@@ -171,6 +171,3 @@ Skills
 #### **Python Programming and libraries for Data Science:** numpy, pandas, tensorflow/keras, matpplotlib, opencv, etc.
 
 
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
